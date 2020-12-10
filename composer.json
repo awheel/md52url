@@ -1,0 +1,22 @@
+{
+    "name": "awheel/md52url",
+    "description": "Use md5 mark file full path.",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "fengqi",
+            "email": "lyf362345@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-fileinfo": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "awheel\\md52url\\": "src/"
+        }
+    }
+}

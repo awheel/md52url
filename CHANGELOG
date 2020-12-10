@@ -1,0 +1,5 @@
+Changes with 0.0.6
+    *) 增加支持路径前缀
+
+Changes with 0.0.4
+    *) 增加 Flash(swf) 类型文件.
